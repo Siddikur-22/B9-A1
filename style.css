@@ -1,70 +1,117 @@
-
 /* font name:font- family: 'Merriweather', serif;   */
 
 /* footer style */
-.footer{
-    background-image:url('images/Banner\ Image.png');
+.footer {
+    background-image: url('images/Banner\ Image.png');
     background-repeat: no-repeat;
     width: 1320px;
     height: 600px;
     margin-left: 90px;
 }
-.footer1{
+
+.footer1 {
     text-align: center;
-    margin:center;
-    
-    
+    margin: center;
+
+
 }
-.happy{
+
+.happy {
     margin-bottom: 300px;
 }
-.footer1 h2{
+
+.footer1 h2 {
     font-family: 'Inter';
     color: #FFF;
     font-size: 32px;
     margin-bottom: 200px;
-    
+
 }
-.footer1 h1{
+
+.footer1 h1 {
     family: 'Merriweather';
-    color:#FFF;
+    color: #FFF;
     font-size: 72px;
     font-weight: 900;
     line-height: 95px;
     margin-top: 200px;
-    
+
 }
-body{
-    font-family: 'Merriweather', serif; ;
+
+body {
+    font-family: 'Merriweather';
 }
-.banner-image{
+
+.banner-image {
     width: 1320px;
     height: 600px;
     margin-left: 90px;
-    
+
 }
+
 /* secetin 2 */
-.one{
+.one {
     color: #F00;
     text-align: center;
     font-family: 'Inter';
     font-size: 88px;
     font-weight: 700;
 }
- .two{
+
+.two {
     color: #F00;
     text-align: center;
     font-family: 'Inter';
     font-size: 24px;
- }
- .three{
+}
+
+.three {
     color: #070211;
     text-align: center;
     font-family: 'Inter';
     font-size: 48px;
     font-weight: 700;
- }
- .new-year-img{
-    width:800px ;
+}
+
+.new-year-img {
+    width: 800px;
     height: 500px;
- }
+}
+
+/* Section 2 */
+
+.section2 {
+    
+    background-image: url('images/Vectorrr.png');
+    background-repeat: no-repeat;
+    margin-left: 90px;
+    width: 1320px;
+    height: 600px;
+    color: #FFF;
+    padding: 50px;
+}
+
+.welcome {
+    font-size: 64px;
+    font-family: 'Merriweather';
+    font-weight: 900;
+    line-height: 88px;
+    font-style: normal;
+    
+}
+
+.section2 p {
+    color: rgba(255, 255, 255, 0.80);
+    font-family:' Inter';
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+}
+.section2 button{
+    border: 0;
+    background-color:#F00;
+    color: #FFF;
+    font-size: 21px;
+    border-radius: 5px;
+}
