@@ -2,45 +2,69 @@
 /* font name:font- family: 'Merriweather', serif;   */
 
 /* footer style */
+.footer{
+    background-image:url('images/Banner\ Image.png');
+    background-repeat: no-repeat;
+    width: 1320px;
+    height: 600px;
+    margin-left: 90px;
+}
+.footer1{
+    text-align: center;
+    margin:center;
+    
+    
+}
+.happy{
+    margin-bottom: 300px;
+}
+.footer1 h2{
+    font-family: 'Inter';
+    color: #FFF;
+    font-size: 32px;
+    margin-bottom: 200px;
+    
+}
+.footer1 h1{
+    family: 'Merriweather';
+    color:#FFF;
+    font-size: 72px;
+    font-weight: 900;
+    line-height: 95px;
+    margin-top: 200px;
+    
+}
 body{
     font-family: 'Merriweather', serif; ;
 }
 .banner-image{
     width: 1320px;
     height: 600px;
-    background-attachment: fixed;
-    background-position: center;
+    margin-left: 90px;
     
 }
 /* secetin 2 */
- .one h2{
+.one{
+    color: #F00;
     text-align: center;
-    font-family: 'Inter', sans-serif;
+    font-family: 'Inter';
     font-size: 88px;
     font-weight: 700;
+}
+ .two{
     color: #F00;
-    gap: 0;
-    
- }
- .one h3{
     text-align: center;
-    font-size:'Inter';
+    font-family: 'Inter';
     font-size: 24px;
-    color: #F00;
-    font-weight: 500;
-
-
  }
- .one h3{
+ .three{
     color: #070211;
     text-align: center;
     font-family: 'Inter';
     font-size: 48px;
     font-weight: 700;
-    line-height: normal;
-
  }
  .new-year-img{
-    width: 800px;
+    width:800px ;
     height: 500px;
  }
