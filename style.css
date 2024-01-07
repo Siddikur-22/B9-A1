@@ -76,12 +76,13 @@ body {
 .new-year-img {
     width: 800px;
     height: 500px;
+
 }
 
 /* Section 2 */
 
-.section2 {
-    
+.section3 {
+
     background-image: url('images/Vectorrr.png');
     background-repeat: no-repeat;
     margin-left: 90px;
@@ -97,21 +98,122 @@ body {
     font-weight: 900;
     line-height: 88px;
     font-style: normal;
-    
+
 }
 
 .section2 p {
     color: rgba(255, 255, 255, 0.80);
-    font-family:' Inter';
+    font-family: ' Inter';
     font-size: 18px;
     font-style: normal;
     font-weight: 400;
     line-height: 30px;
 }
-.section2 button{
+
+.section3 button {
     border: 0;
-    background-color:#F00;
+    background-color: #F00;
     color: #FFF;
     font-size: 21px;
     border-radius: 5px;
+}
+
+.section4 {
+    width: 1320px;
+    height: 352px;
+    margin-left: 93px;
+    border-radius: 10px;
+    background-color: antiquewhite;
+}
+
+.desgin-section {
+    text-align: center;
+    padding: 100px;
+    font-family: 'Inter';
+}
+
+.desgin-section span {
+    color: #F00;
+}
+
+/* section 5 */
+
+.section5 {
+    margin-top: 100px ;
+    display: flex;
+
+}
+
+.div1 {
+    margin-left: 110px;
+    font-family: 'Inter';
+}
+
+.div2 {
+    margin-left: 190px;
+    width: 340px;
+    height: 340px;
+    border-radius: 230px;
+    border: 15px solid #F00;
+}
+
+.coming-soon {
+    color: #070211;
+    font-family: 'Merriweather';
+    font-size: 48px;
+   
+}
+
+
+.div3 {
+    margin-left: 180px;
+    font-family: 'Inter';
+}
+
+
+.midol-img {
+    height: 300px;
+    margin-left: 19px;
+    margin-top: 19px;
+}
+
+/* section6 */
+
+.section6 {
+    margin: 100px;
+    height: 50vh;
+}
+
+.section66 {
+
+    text-align: center;
+
+}
+
+.section66 h3 {
+    color: #070211;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-bottom: 10px;
+}
+
+.section66 h1 {
+
+    text-align: center;
+    font-family: 'Merriweather';
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    margin-top: 0;
+}
+
+.holiday {
+    color: #F00;
+}
+
+.section66 p {
+    margin-bottom: 300px;
 }
