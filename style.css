@@ -18,6 +18,7 @@
 }
 .footer1 h2{
     font-size: 32px;
+    
 }
 .footer1 h1{
     font-size: 72px;
@@ -120,7 +121,7 @@ body {
     height: 352px;
     margin-left: 93px;
     border-radius: 10px;
-    background-color: rgb(245, 228, 228);
+    background: linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);
 }
 
 .desgin-section {
@@ -260,7 +261,7 @@ body {
 .section9 {
     height: 500px;
     margin-top: 150px;
-    background-color: rgb(245, 228, 228);
+    background:linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%); 
     border-radius: 10px;
     margin-right: 85px;
     margin-left: 80px;
