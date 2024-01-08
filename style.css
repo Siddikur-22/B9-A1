@@ -9,31 +9,18 @@
     margin-left: 90px;
 }
 
-.footer1 {}
-
-.happy {
-    margin-bottom: 300px;
-}
-
-.footer1 h2 {
-    font-family: 'Inter';
-    color: #FFF;
-    font-size: 32px;
+.footer1 {
     text-align: center;
-    margin-bottom: 90px;
-    gap: 100px;
-
-
-}
-
-.footer1 h1 {
-    family: 'Merriweather';
     color: #FFF;
+    
+}
+.footer1 h2{
+    font-size: 30px;
+}
+.footer1 h1{
     font-size: 72px;
-    font-weight: 900;
-    text-align: center;
-
 }
+
 
 body {
     font-family: 'Merriweather';
@@ -73,6 +60,7 @@ body {
 .new-year-img {
     width: 500px;
     height: 500px;
+    margin-bottom: 80px;
 
 }
 
@@ -114,6 +102,14 @@ body {
     font-size: 21px;
     border-radius: 5px;
 }
+.subscribe1{
+    border: 0;
+    background-color: #F00;
+    color: #FFF;
+    font-size: 17px;
+    border-radius: 5px;
+    padding:10px 22px 10px 22px;
+}
 
 .section4 {
     width: 1320px;
@@ -125,7 +121,7 @@ body {
 
 .desgin-section {
     text-align: center;
-    padding: 100px;
+    padding: 60px;
     font-family: 'Inter';
 }
 
@@ -144,6 +140,9 @@ body {
 .div1 {
     margin-left: 110px;
     font-family: 'Inter';
+}
+.div1 h3{
+    color: #F00;
 }
 
 .div2 {
@@ -221,11 +220,14 @@ body {
 
 }
 
-.images-div {}
+.group-75 img{
+    
+}
 
 .image2 img {
     height: 500px;
     margin-left: 150px;
+   
 
 
 
@@ -294,6 +296,8 @@ input {
    
    
 }
+
+/* section 10 */
 .section10{
     margin-left: 0;
     margin-right: 0;
@@ -312,6 +316,7 @@ input {
 .sec2{
     margin-left: 550px;
 }
+
 .number1{
     font-family: 'Inter';
     
