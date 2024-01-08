@@ -71,7 +71,7 @@ body {
 }
 
 .new-year-img {
-    width: 800px;
+    width: 500px;
     height: 500px;
 
 }
@@ -311,6 +311,13 @@ input {
 }
 .sec2{
     margin-left: 550px;
+}
+.number1{
+    font-family: 'Inter';
+    
+}
+.number2{
+    font-family: 'Inter';
 }
 .hr-line{
     width: 1100px;
