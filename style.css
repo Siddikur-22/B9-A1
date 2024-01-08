@@ -329,11 +329,15 @@ input {
     display: flex;
     font-family: 'Inter';
     font-size: 13px;
+    
+    
 }
 .conti1{
     margin-left: 200px;
+    margin-top: 60px;
     
 }
 .conti2{
     margin-left: 680px;
+    margin-top: 60px;
 }
