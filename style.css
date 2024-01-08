@@ -292,6 +292,7 @@ input {
 }
 
 .subscribe {
+    margin-left: -5px;
     font-size: 19px;
     padding: 9px;
     border: 0;
