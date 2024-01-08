@@ -300,6 +300,19 @@ input {
     background-color:  #070211;
     height: 70vh;
 }
-.div11{
+.sec-container{
     color: #FFF;
+    display: flex;
+    padding: 30px;
+    
+}
+.sec1{
+    margin-left: 200px;
+}
+.sec2{
+    margin-left: 550px;
+}
+.hr-line{
+    width: 1100px;
+    opacity: 50%;
 }
